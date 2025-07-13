@@ -1,6 +1,5 @@
 import { Box, Layers } from 'lucide-react';
-import React from 'react';
-import Footer from './Footer';
+
 
 export default function ExperienceSection() {
   return (
