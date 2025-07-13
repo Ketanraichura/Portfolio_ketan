@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { FaReact, FaNodeJs, FaDocker, FaGithub, FaGitAlt, FaFigma } from 'react-icons/fa';
+import { FaReact, FaDocker, FaGithub, FaGitAlt, FaFigma } from 'react-icons/fa';
 import { SiNextdotjs, SiTypescript, SiTailwindcss, SiPrisma, SiPostgresql, SiExpress, SiMongodb, SiGraphql, SiJenkins, SiVercel, SiAmazon, SiKubernetes, SiPostman, SiGo, SiDeno, SiHono, SiShadcnui, SiCanva, SiPosthog } from 'react-icons/si';
 import { VscCode } from 'react-icons/vsc';
 import { TbBrandVscode } from 'react-icons/tb';
