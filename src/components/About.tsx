@@ -1,7 +1,5 @@
-import React from 'react';
 import { MapPin, Briefcase, Box, Layers, Compass, LifeBuoy } from 'lucide-react';
 import profile from "../assets/profile.png"
-import Footer from './Footer';
 
 export default function PersonalWebsite() {
   return (
