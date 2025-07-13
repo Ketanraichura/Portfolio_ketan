@@ -1,7 +1,7 @@
 // components/Sidebar.tsx
 import { FC } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { FiSearch, FiUser, FiBox, FiTool, FiLayers, FiFeather, FiLink, FiAlertTriangle } from "react-icons/fi";
+import { FiSearch, FiUser, FiBox, FiTool, FiLayers, FiLink, FiAlertTriangle } from "react-icons/fi";
 import { FaInstagram, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { LuPencil, LuBook, LuMessageCircle } from "react-icons/lu";
 import profile from "../assets/profile.png";
